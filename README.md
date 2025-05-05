@@ -8,6 +8,7 @@ https://ollama.com/download
 Após instalar (ou caso ja o tenha instalado), instale as seguintes dependências, como pelo terminal do VSCode:
 
 pip install requests
+
 ollama pull nomic-embed-text
 
 Em seguida, rodar o script Python no mesmo terminal com:
